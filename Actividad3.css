@@ -1,0 +1,3 @@
+h2 { color: orange; size: 20px;}
+p { color: grey; font-style: italic;}
+div>div>p { color: blue; font-style: normal;}
