@@ -1,0 +1,78 @@
+div {
+    height: 180px;
+    width: 180px;
+    margin: 20px;
+    text-align: center;
+    align-content: center ;
+}
+
+body {
+   
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;    
+    flex-direction: row;
+    color: white;
+    
+}
+
+.bloque1 {
+    background-color: #e44221;
+   
+}
+.bloque2 {
+    background-color: #964ebc;
+}
+.bloque3 {
+    background-color: #3a729b;
+}
+.bloque4 {
+    background-color: #57a0d3;
+}
+.bloque5 {
+    background-color: #55aa83;
+}
+.bloque6 {
+    background-color:#f4b732;
+}
+.bloque7 {
+    background-color: #f18d20;
+}
+.bloque8 {
+    background-color: #a2a7ab;
+}
+.bloque9 {
+    background-color: #2f4558;
+}.bloque10 {
+    background-color: #000000;
+}
+ 
+.bloque1:hover {
+    background-color: #1d564e;
+   
+}
+.bloque2:hover {
+    font-size: x-large;
+}
+.bloque3:hover {
+    color: #4e1d56;
+}
+.bloque4:hover {
+    line-height: 120px;
+}
+.bloque5:hover {
+    border-radius: 30px;
+}
+.bloque6:hover {
+    box-shadow: 10px 10px 20px #000000;
+}
+.bloque7:hover {
+    opacity: 0.3;
+}
+.bloque8:hover {
+    border: 40px;
+}
+.bloque9:hover {
+    margin-top: 90px;
+}.bloque10:hover {
+    padding: 50px;
+}

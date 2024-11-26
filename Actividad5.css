@@ -1,6 +1,25 @@
-.contenedor1 {background-color: lightskyblue; width: 300px; height: 350px;}
-.contenedor2 {background-color: lightcoral; width: 300px; height: 350px;}
-.boton  {height: 30px; background-color: plum; width: 120px; margin: 12px;}
-button {opacity: 0;}
-.contenedor1 div:first-of-type { background-color: black;}
-.contenedor2 div:first-of-type { background-color: black;}
+.contenedor1 {
+    background-color: lightskyblue;
+    width: 300px;
+    height: 350px;
+}
+.contenedor2 {
+    background-color: lightcoral;
+    width: 300px;
+    height: 350px;
+}
+.boton  {
+    height: 30px;
+    background-color: plum;
+    width: 120px;
+    margin: 12px;
+    }
+button {
+    opacity: 0;
+}
+.contenedor1 div:first-of-type {
+    background-color: black;
+}
+.contenedor2 div:first-of-type { 
+    background-color: black;
+}

@@ -1,0 +1,47 @@
+#bloque_principal{
+    width: 1300px;
+    height: 510px;
+    background-color:#CE8147;
+}
+body{
+    background-color: #561d25;
+}
+
+#bloque_1 h1{
+    color: #CE8147;
+}
+#bloque_1{
+    width: 1100px;
+    height: 290px;
+    background-color:#ECDD7B;
+}
+
+#bloque_2{
+    width: 1100px;
+    height: 180px;
+    background-color: #ECDD7B;
+}
+
+#bloque_1 .items{
+    width: 250px;
+    height: 45px;
+    margin-top: 10px;
+    background-color: #CDE7BE;
+}
+
+.linea1{
+    background-color: #CDE7BE;
+}
+
+.linea2{
+    background-color: #CDE7BE;
+}
+
+.linea3{
+    background-color: #CDE7BE;
+}
+
+#bloque_2 h1{
+    color: #CE8147;
+}
+ 

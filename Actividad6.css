@@ -1,0 +1,16 @@
+.lista1 {
+    list-style: none;
+}
+.lista1 li:before {
+    content: "\2714";
+    color: black;
+    margin: 0 0.5rem 0 1rem;
+}
+.lista2 {
+    list-style: none;
+}
+.lista2 li::before {
+    content: '\2605';
+    color: orange; 
+    margin: 0 0.5rem 0 1rem;
+}
